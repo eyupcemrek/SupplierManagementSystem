@@ -1,0 +1,10 @@
+
+erhan    koláak   factory           1234
+fatih     terim   factory           1234
+kaan    cakmak   factory           1726
+ahmet    kaplan   factory           3546
+mehmet      ateü   factory           3029
+merve    yçlmaz   factory           3562
+yaren       kum   factory           3567
+mert     yetim   factory           9281
+emir      uyar   factory           2356
